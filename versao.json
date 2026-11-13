@@ -1,0 +1,4 @@
+{
+  "manifesto": "{\"versao\": \"0.1.1\", \"importancia\": \"normal\", \"notas\": \"VersÃ£o de teste do aviso de atualizaÃ§Ã£o.\", \"url_instalador\": \"https://github.com/samuelmel/despachante-atualizacoes/releases/download/v0.1.1/Despachante-0.1.1-instalador.exe\", \"sha256\": \"eab5458ddce22ad4c9d532e3a1d3564d62c5d73b5c02a9bc7124428389619dcd\", \"tamanho\": 53566239, \"publicada_em\": \"2026-11-13T21:29:37+00:00\"}",
+  "assinatura": "10aff878dea166acebedef4f488cc0564eddd8809bfe28440bb2c7760af4388e1e227598e4bb78320f05413ca6611f660a82f37fd26ecd5bfd3ae2d0e290b309"
+}
